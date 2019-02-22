@@ -5,7 +5,7 @@ import wood.strategy.PlayerBoardView;
 import wood.strategy.WoodPlayerStrategy;
 import wood.tiles.Tile;
 
-import java.awt.Point;
+import java.awt.*;
 import java.util.Observable;
 import java.util.Random;
 

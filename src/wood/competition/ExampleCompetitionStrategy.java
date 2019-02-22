@@ -1,6 +1,5 @@
 package wood.competition; // This is the "competition" package
 
-import android.graphics.Point;
 import wood.game.TurnAction;
 import wood.item.InventoryItem;
 import wood.strategy.PlayerBoardView;
