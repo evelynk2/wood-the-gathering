@@ -1,5 +1,6 @@
 package wood.strategy;
 
+import android.graphics.Point;
 import wood.game.TurnAction;
 import wood.item.InventoryItem;
 

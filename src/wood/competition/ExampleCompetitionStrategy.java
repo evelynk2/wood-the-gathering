@@ -1,5 +1,6 @@
 package wood.competition; // This is the "competition" package
 
+import android.graphics.Point;
 import wood.game.TurnAction;
 import wood.item.InventoryItem;
 import wood.strategy.PlayerBoardView;
@@ -16,6 +17,7 @@ import java.util.Random;
  *  either delete or modify this class in order to submit your strategy implementation
  */
 public class ExampleCompetitionStrategy implements WoodPlayerStrategy {
+
     @Override
     public void initialize(int boardSize, int maxInventorySize, int winningScore, Point startTileLocation,
                            boolean isRedPlayer, Random random) {
